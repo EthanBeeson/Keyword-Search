@@ -15,7 +15,7 @@ This project leverages several core Java libraries and techniques to implement a
    - `BufferedReader` is particularly useful here because it allows the program to read the file line by line,
      which is memory-efficient for handling large files like a dictionary.
 
-### 2. **'java.util.HashMap' and 'java.util.Map'**
+### 2. **`java.util.HashMap` and `java.util.Map`**
    - Utilization of the Hashmap data structure to store and count occurences of  character in both the user-inputted
      letters and the words from the dictionary. This allows the program to compare
      whether the available letters can form valid words.
